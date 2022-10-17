@@ -21,7 +21,7 @@ public class EmailController {
     }
 
 
-    @GetMapping("/")https://github.com/xuanhieuvnhd/spring-email-validate-gralde.git
+    @GetMapping("/")
     String getIndex() {
         return "index";
     }
